@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-voice-Status",
+  "version": "1.0.0",
+  "description": "Send voice messages on WhatsApp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^4.0.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
